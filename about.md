@@ -3,7 +3,7 @@ layout: default
 title: "关于：About"
 ---
 
-## 个人简介：
+## Template原作者个人简介：
 
 * 欧阳利平
 * Web后台开发、Android应用开发爱好者
