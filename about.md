@@ -7,7 +7,7 @@ title: "关于：About"
 
 * Yufeng Liang
 * Data engineer/Data Scientist
-* From Foshan,Chine, now live in Paris
+* From Foshan,China, now live in Paris
 
 ## Contact
 
@@ -21,5 +21,4 @@ Email: liang.yufeng06@gmail.com
 
 ### About this blog：
 
-* Based on [Github](https://github.com/LippiOuYang/LippiOuYang.github.io)(Big thank you )
-
+* Blog template bwased on [Github](https://github.com/LippiOuYang/LippiOuYang.github.io)
